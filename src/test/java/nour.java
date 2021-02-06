@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class nour {
+public class nour {
+    public static void main(String[] args) {
+
+    }
 }
